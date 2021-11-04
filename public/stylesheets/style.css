@@ -1,0 +1,48 @@
+* {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  margin: auto;
+  
+  
+}
+
+
+
+body {
+
+background-image: url("/images/ae747c669ede5a97c191aea61eb675df.png");
+
+
+}
+
+a {
+  color: #00B7FF;
+}
+
+.section-counter{
+  margin-top: 20vw;
+  height: 10vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+
+.section-counter span{
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px
+}
+.button-container button {
+  margin: 15px
+}
+
+
+
